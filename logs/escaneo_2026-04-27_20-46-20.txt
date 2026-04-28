@@ -1,0 +1,28 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-04-27 20:45 -0400
+Nmap scan report for 192.168.1.1
+Host is up (0.00051s latency).
+MAC Address: 44:48:B9:E3:1A:A8 (MitraStar Technology)
+Nmap scan report for 192.168.1.48
+Host is up (0.60s latency).
+MAC Address: 70:C9:32:F8:73:93 (Dreame Technology (Suzhou) Limited)
+Nmap scan report for 192.168.1.72
+Host is up (0.15s latency).
+MAC Address: 2E:53:23:6B:9D:43 (Unknown)
+Nmap scan report for 192.168.1.75
+Host is up (0.024s latency).
+MAC Address: 14:C1:4E:02:1F:4F (Google)
+Nmap scan report for 192.168.1.81
+Host is up (0.00018s latency).
+MAC Address: 10:FF:E0:28:C6:E7 (Giga-byte Technology)
+Nmap scan report for 192.168.1.82
+Host is up (0.023s latency).
+MAC Address: B6:C2:C7:7A:8F:A6 (Unknown)
+Nmap scan report for 192.168.1.125
+Host is up (0.12s latency).
+MAC Address: CA:53:21:37:83:69 (Unknown)
+Nmap scan report for 192.168.1.157
+Host is up (0.18s latency).
+MAC Address: F8:17:2D:D9:E6:DE (Tuya Smart)
+Nmap scan report for 192.168.1.84
+Host is up.
+Nmap done: 256 IP addresses (9 hosts up) scanned in 33.82 seconds
